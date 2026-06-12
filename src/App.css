@@ -291,8 +291,7 @@
 }
 
 .contact-card a[href^="mailto:"] {
-  text-decoration: underline;
-  text-underline-offset: 0.18em;
+  text-decoration: none;
 }
 
 @media (max-width: 900px) {
