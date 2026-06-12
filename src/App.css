@@ -31,8 +31,7 @@
 }
 
 .brand,
-.nav a,
-.contact-card a {
+.nav a {
   color: inherit;
   text-decoration: none;
 }
@@ -285,6 +284,10 @@
 .contact-card p {
   margin-top: 10px;
   line-height: 1.7;
+}
+
+.contact-card p a {
+  color: inherit;
 }
 
 .contact-card a[href^="mailto:"] {
