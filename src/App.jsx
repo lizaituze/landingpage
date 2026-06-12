@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header className="hero">
-        <h1>Hi, I'm Ituze</h1>
+        <h1>Hi, I'm Ituze Liza</h1>
         <p>Aspiring Software Engineer</p>
         <a href="#contact">
           <button>Contact Me</button>
