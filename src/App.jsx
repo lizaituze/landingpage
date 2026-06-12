@@ -22,7 +22,7 @@ function App() {
     <main className="page-shell">
       <header className="topbar">
         <a className="brand" href="#home">
-          Ituze Liza
+          Liza Ituze
         </a>
 
         <nav className="nav" aria-label="Primary">
