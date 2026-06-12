@@ -52,11 +52,6 @@ function App() {
         </div>
 
         <aside className="hero-panel" aria-label="Highlights">
-          <div className="hero-card accent-card">
-            <span className="card-label">Currently focused on</span>
-            <strong>React landing pages and polished UI builds</strong>
-          </div>
-
           <div className="hero-card stats-grid">
             <div>
               <strong>6</strong>
