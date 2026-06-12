@@ -86,7 +86,8 @@
 .hero h1 {
   font-size: clamp(2.4rem, 5vw, 4.2rem);
   letter-spacing: -0.05em;
-  max-width: 12ch;
+  max-width: none;
+  white-space: nowrap;
 }
 
 .hero-text,
@@ -321,6 +322,10 @@
 @media (max-width: 640px) {
   .page-shell {
     padding: 16px;
+  }
+
+  .hero h1 {
+    white-space: normal;
   }
 
   .nav {
