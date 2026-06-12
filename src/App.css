@@ -138,6 +138,10 @@
   box-shadow: 0 18px 40px rgba(31, 23, 20, 0.16);
 }
 
+.button-primary:visited {
+  color: #fff;
+}
+
 .button-secondary {
   background: rgba(255, 255, 255, 0.66);
   color: #1f1714;
