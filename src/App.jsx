@@ -35,7 +35,7 @@ function App() {
       <section id="home" className="hero">
         <div className="hero-copy">
           <p className="eyebrow">Aspiring Software Engineer</p>
-          <h1>Hi, I&apos;m Ituze Liza.</h1>
+          <h1>Hi, I&apos;m Liza Ituze.</h1>
           <p className="hero-text">
             I design and build thoughtful web experiences with a focus on clean
             structure, responsive UI, and practical results.
